@@ -1,6 +1,6 @@
 LISTA DE CANCIONES FAVORITAS
-[]Haremos el Amor
+[X]Haremos el Amor
 []Amanecer Asi
-[]Atrevete
+[X]Atrevete
 []Atrapado
-[]Un Mal Sueño
+[X]Un Mal Sueño
