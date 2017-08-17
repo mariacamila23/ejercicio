@@ -1,11 +1,13 @@
 LISTA DE PELICULAS
 [X]ragon ball Z
-[]Matrix
+[S]Matrix
 []Harry Potter
 []Rapido y Furioso
-[]El conjuro
+[S]El conjuro
 [X]Golpe Bajo
 []Thor
 []Ironman
 [X]Cars 2
+[]7 almas
+[]anabell
 
