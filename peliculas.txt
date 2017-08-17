@@ -1,11 +1,11 @@
 LISTA DE PELICULAS
-[]Dragon ball Z
+[X]ragon ball Z
 []Matrix
 []Harry Potter
 []Rapido y Furioso
 []El conjuro
-[]Golpe Bajo
+[X]Golpe Bajo
 []Thor
 []Ironman
-[]Cars 2
+[X]Cars 2
 
